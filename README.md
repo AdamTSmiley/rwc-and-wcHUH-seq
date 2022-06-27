@@ -10,4 +10,4 @@ Briefly, wcHUH-seq takes in forward NGS reads, trims them down to the portion of
 
 rwcHUH-seq takes in forward NGS reads, trims them down to the portion of interest, and counts the number of reads for each of sixteen potential sequences. This script takes in files for magnesium and manganese reaction conditions only -- both in triplicate. It calculates the percentage that each potential sequences makes up of the total number of reads to quantify reaction efficiency and preference in Rep-mediated reunion.
 
-We have provided the Python code, raw data, processed data, and percent reductions/enrichments for each of these experiments.
+We have provided the Python code, raw data, processed data, and percent reductions/enrichments for each of these experiments here and on our laboratory website (www.Mechanosome.org).
